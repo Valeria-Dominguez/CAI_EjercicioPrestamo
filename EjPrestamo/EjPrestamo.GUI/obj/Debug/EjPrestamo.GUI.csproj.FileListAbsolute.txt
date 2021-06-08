@@ -1,0 +1,33 @@
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.exe.config
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.exe
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.pdb
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Entidades.dll
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Negocio.dll
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Entidades.pdb
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Negocio.pdb
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.Properties.Resources.resources
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.GenerateResource.cache
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.CopyComplete
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.exe
+C:\Users\Valeria\source\repos\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.GUI.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Negocio.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Negocio.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.Properties.Resources.resources
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.GenerateResource.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\EjPrestamo.Datos.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\EjPrestamo\EjPrestamo.GUI\obj\Debug\EjPrestamo.GUI.FormPrestamo.resources
